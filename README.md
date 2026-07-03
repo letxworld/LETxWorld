@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="wp.jpg" width="150" style="border-radius: 50%;" />
+<img src="wallpaper4.jpg" width="150" style="border-radius: 50%;" />
 
 # Hi, I'm Dipesh Pokhrel 👋
 
