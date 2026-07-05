@@ -1,92 +1,130 @@
 <div align="center">
 
-<img src="wallpaper" width="150" style="border-radius: 50%;" />
+```
+██████╗ ██╗██████╗ ███████╗███████╗██╗  ██╗
+██╔══██╗██║██╔══██╗██╔════╝██╔════╝██║  ██║
+██║  ██║██║██████╔╝█████╗  ███████╗███████║
+██║  ██║██║██╔═══╝ ██╔══╝  ╚════██║██╔══██║
+██████╔╝██║██║     ███████╗███████║██║  ██║
+╚═════╝ ╚═╝╚═╝     ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-# Hi, I'm Dipesh Pokhrel 👋
+<img src="https://github.com/letxworld.png" width="140" style="border-radius: 50%; border: 2px solid #00ff41;" />
 
-### Aspiring Security Analyst | IT Student | Self-Taught Developer 🇳🇵
+<a href="https://github.com/LETxworld">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Dipesh+pokhrel+(LETXWORLD);spiring+security+researcher;sudo+access+granted;building+in+public+from+nepal" alt="Typing SVG" />
+</a>
 
-*Securing systems, understanding vulnerabilities, and building resilient software — one line at a time.*
-
-<img src="https://komarev.com/ghpvc/?username=LETxworld&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=LETxworld&label=CONNECTIONS+LOGGED&color=00ff41&style=for-the-badge" alt="profile views" />
 
 </div>
 
----
+<br>
 
-### 🛡️ About Me
+```bash
+> root@dipesh:~# cat about.txt
+```
 
-I'm an IT student from Nepal focused on transitioning into **Cybersecurity & Security Analysis**, backed by a strong foundation in full-stack web development. Understanding how applications are *built* gives me a sharper eye for how they can be *broken and defended*.
+I'm an IT student from Nepal, currently pivoting from full-stack development into
+**cybersecurity & security analysis**. Knowing how systems are *built* is what lets
+me understand how they get *broken* — and how to defend them.
 
-- 🔐 Currently focused on **network security fundamentals, web application security, and threat analysis**
-- 🧠 Building a strong base in full-stack development to better understand attack surfaces
-- 🧩 Passionate about problem-solving, digital forensics basics, and secure coding practices
-- 🎯 Long-term goal: become a certified **SOC Analyst / Security Analyst**
-- 🌍 Based in Nepal, learning and building in public
+```bash
+> root@dipesh:~# ls -la ./focus
+```
 
----
+```
+drwxr-xr-x  network-security-fundamentals
+drwxr-xr-x  bug_bounty
+drwxr-xr-x  web-application-security
+drwxr-xr-x  threat-detection-and-analysis
+drwxr-xr-x  tools-development
+-rwxr-xr-x  full-stack-dev-background.sh
+```
 
-### 🎯 Current Focus
+- 🔐 Writing Sigma detection rules mapped to MITRE ATT&CK
+- 🧠 Learning SOC workflows — SIEM, log analysis, correlation-based detection
+- 🧩 Background in full-stack dev (Laravel, React) — sharpens my eye on attack surfaces
+- 🎯 Endgame: Professional Bug Bounty Hunter 
+- 🌍 Nepal-based, building everything in public
 
-| Area | Details |
+<br>
+
+```bash
+> root@dipesh:~# cat status.log
+```
+
+| FIELD | VALUE |
 |---|---|
-| 🔭 Working On | Personal portfolio, security-focused mini projects, GitHub presence |
-| 🌱 Learning | Cybersecurity fundamentals, Linux, Networking, Laravel, React.js |
-| 🤝 Open To | Cybersecurity internships, freelance dev work, collaboration |
-| 💬 Ask Me About | Getting started in coding, security basics, GitHub profile setup |
-| ⚡ Philosophy | *"Build once, learn forever."* |
+| `working_on` | detection engineering repos, portfolio hardening |
+| `learning`   | Linux internals, networking, Splunk/Sigma, threat detection |
+| `open_to`    | cybersecurity internships, freelance dev, collabs |
+| `ask_me`     | SOC basics, GitHub setup, breaking into security |
+| `uptime`     | 🟢 online |
 
----
+<br>
 
-### 🧰 Tech Stack & Tools
-
-**Security & Fundamentals**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Networking-003366?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
-
-**Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,tailwind,bootstrap,mysql,git,github,vscode,figma" />
-</p>
-
----
-
-### 📈 GitHub Analytics
+```bash
+> root@dipesh:~# ./run_stack.sh --list
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=letxworld&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letxworld&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF41" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
+</p>
+
+<br>
+
+```bash
+> root@dipesh:~# fetch --analytics
+```
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/LETxworld?style=for-the-badge&color=00ff41&labelColor=000000" />
+  <img src="https://img.shields.io/github/stars/LETxworld?style=for-the-badge&color=00ff41&labelColor=000000" />
+  <img src="https://img.shields.io/github/last-commit/LETxworld/LETxworld?style=for-the-badge&color=00ff41&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letxworld&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LETxworld&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border=00FF41" alt="GitHub Streak" />
 </p>
 
----
+<br>
 
-### 📫 Let's Connect
+```bash
+> root@dipesh:~# cat contact.sh
+```
 
-<p align="left">
+<p align="center">
   <a href="mailto:dipeshpokhrel55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
   </a>
   <a href="https://www.linkedin.com/in/dipesh-pokhrel-2a6002375" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
   </a>
   <a href="https://github.com/LETxworld" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41" />
   </a>
 </p>
 
----
+<br>
 
 <div align="center">
 
-*"Security isn't a product, it's a mindset."*
-
-Made with ❤️ from Nepal 🇳🇵
+```
+> "security is MORE complex in DIGITAL WORLD , BE SECURE !!!"
+> connection terminated.
+```
 
 </div>
