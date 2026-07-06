@@ -12,7 +12,7 @@
 <img src="https://github.com/letxworld.png" width="140" style="border-radius: 50%; border: 2px solid #00ff41;" />
 
 <a href="https://github.com/LETxworld">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Dipesh+pokhrel+(LETXWORLD);spiring+security+researcher;sudo+access+granted;building+in+public+from+nepal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Dipesh+Pokhrel+(LETXWORLD);aspiring+security+researcher;sudo+access+granted;building+in+public+from+nepal" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=LETxworld&label=CONNECTIONS+LOGGED&color=00ff41&style=for-the-badge" alt="profile views" />
@@ -45,7 +45,7 @@ drwxr-xr-x  tools-development
 - 🔐 Writing Sigma detection rules mapped to MITRE ATT&CK
 - 🧠 Learning SOC workflows — SIEM, log analysis, correlation-based detection
 - 🧩 Background in full-stack dev (Laravel, React) — sharpens my eye on attack surfaces
-- 🎯 Endgame: Professional Bug Bounty Hunter 
+- 🎯 Endgame: Professional Bug Bounty Hunter
 - 🌍 Nepal-based, building everything in public
 
 <br>
@@ -96,9 +96,9 @@ drwxr-xr-x  tools-development
   <img src="https://img.shields.io/github/last-commit/LETxworld/letxworld?style=for-the-badge&color=00ff41&labelColor=000000" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letxworld&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border=00FF41" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=letxworld&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border=00FF41" alt="GitHub Streak" />
+</div>
 
 <br>
 
