@@ -91,13 +91,13 @@ drwxr-xr-x  tools-development
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/LETxworld?style=for-the-badge&color=00ff41&labelColor=000000" />
-  <img src="https://img.shields.io/github/stars/LETxworld?style=for-the-badge&color=00ff41&labelColor=000000" />
-  <img src="https://img.shields.io/github/last-commit/LETxworld/LETxworld?style=for-the-badge&color=00ff41&labelColor=000000" />
+  <img src="https://img.shields.io/github/followers/letxworld?style=for-the-badge&color=00ff41&labelColor=000000" />
+  <img src="https://img.shields.io/github/stars/letxworld?style=for-the-badge&color=00ff41&labelColor=000000" />
+  <img src="https://img.shields.io/github/last-commit/LETxworld/letxworld?style=for-the-badge&color=00ff41&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LETxworld&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border=00FF41" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=letxworld&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border=00FF41" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -107,7 +107,7 @@ drwxr-xr-x  tools-development
 ```
 
 <p align="center">
-  <a href="mailto:dipeshpokhrel55@gmail.com">
+  <a href="mailto:pokhreldipesh55@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
   </a>
   <a href="https://www.linkedin.com/in/dipesh-pokhrel-2a6002375" target="_blank">
