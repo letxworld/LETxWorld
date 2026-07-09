@@ -57,7 +57,7 @@ drwxr-xr-x  tools-development
 | FIELD | VALUE |
 |---|---|
 | `working_on` | detection engineering repos, portfolio hardening |
-| `learning`   | Linux internals, networking, Splunk/Sigma, threat detection |
+| `learning`   | Linux internals, networking, Bug Bounty Hunting, threat detection |
 | `open_to`    | cybersecurity internships, freelance dev, collabs |
 | `ask_me`     | SOC basics, GitHub setup, breaking into security |
 | `uptime`     | 🟢 online |
